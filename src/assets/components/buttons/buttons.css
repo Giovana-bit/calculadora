@@ -1,0 +1,23 @@
+.buttons {
+    width: 25%;
+    background-color: #FAE3C6;
+    font-size: 40px;
+    box-shadow: 0px 0px 1px #0000;
+    text-align: center;
+    cursor: pointer;
+    border-color: #fecb8e;
+    height: 10vh;
+}
+
+.duple {
+    width: 50%;
+}
+
+.triple {
+    width: 75%;
+}
+
+.operation {
+    color: #FFFF;
+    background-color: #F564A9;
+}
